@@ -4,7 +4,7 @@
 
 Demo on Android and iOS
 
-![Demo](https://github.com/Faridulakthar/ReactNativeOnboardScreen/src//Demo.gif)
+![Demo](https://github.com/Faridulakthar/ReactNativeOnboardScreen/blob/master/src/Demo.gif)
 
 ## Run Locally
 
